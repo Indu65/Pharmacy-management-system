@@ -73,8 +73,19 @@ sqlparse==1.0.6
 
 
 License
-
 This project is licensed under the MIT License.
+
+
+admin can add and delete the product http://127.0.0.1:8000/admin
+<img width="1786" height="958" alt="{ADADF8A3-B361-477F-BA60-F69A9A7AC4B5}" src="https://github.com/user-attachments/assets/69df4734-8da0-4ff0-ac80-b9a4daa95710" />
+
+
+<img width="1412" height="761" alt="Screenshot 2025-10-03 211752" src="https://github.com/user-attachments/assets/4b72fd6f-fd91-4b4a-b4b8-40454463adc9" />
+
+
+
+
+
 
 
 
