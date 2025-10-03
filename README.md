@@ -1,7 +1,7 @@
-requirements.txt
-Django==5.2.7
-Pillow==10.1.0
-sqlparse==1.0.6
+1.requirements.txt
+a. Django==5.2.7
+b. Pillow==10.1.0
+c. sqlparse==1.0.6
 
 2️⃣ README.md
 # Pharmacy Django Mini Project
@@ -61,20 +61,7 @@ python pharmacyproject/manage.py runserver
 
 Open your browser at http://127.0.0.1:8000
 
-Project Structure
-Pharmacy-Django-Mini-Project/
-│
-├── pharmacyproject/       # Main Django project
-│   ├── app/               # Application for managing medicines/products
-│   ├── settings.py        # Project settings
-│   └── urls.py            # Project URLs
-│
-├── templates/             # HTML templates
-│   └── Home.html
-│
-├── media/                 # Uploaded images
-├── manage.py
-└── requirements.txt       # Project dependencies
+
 
 Dependencies
 
