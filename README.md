@@ -84,6 +84,10 @@ admin can add and delete the product http://127.0.0.1:8000/admin
 
 
 
+https://github.com/user-attachments/assets/5a7a68e1-00b5-4dfa-b23f-c50d5d9444ed
+
+
+
 
 
 
